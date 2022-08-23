@@ -26,3 +26,8 @@ If the user logs out it should clear all saved state
 API: https://app-api.feature.surehub.io/api
 Login POST: https://app-api.feature.surehub.io/api/auth/login
 Sample Payload: {"email_address":"t@t.com","password":"aA1!1111","device_id":"1430b45a0b"}
+
+
+Please clone/fork this repository (it was created using Expo instructions here: https://docs.expo.dev/get-started/create-a-new-app/)
+Commit work to your own repository then share a link back to your own repo when finished
+You can run the app on device or in the web browser with 'expo start' 

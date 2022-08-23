@@ -24,7 +24,9 @@ If a user is authenticated, create a method of adding the JWT to the Authorizati
 If the user logs out it should clear all saved state
 
 API: https://app-api.feature.surehub.io/api
+
 Login POST: https://app-api.feature.surehub.io/api/auth/login
+
 Sample Payload: {"email_address":"t@t.com","password":"aA1!1111","device_id":"1430b45a0b"}
 
 
